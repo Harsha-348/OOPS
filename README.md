@@ -9,3 +9,78 @@
  - Encapsulation
  - Data Abstraction
 
+
+---------------------------------------------------------( Class & Objects )---------------------------------------------------------------
+
+# (Class)
+- A class is a collection of objects.
+- It acts like a blue print for creating objects.
+- It defines the attributes and methods that the objects can have.
+- Class is creates using the keyword "Class".
+- Attributes are nothing but variables and are accessable using (.) dot operator.
+
+# (Object)
+- It is an instance of a class.
+- It is the actual implementation of the class.
+- It consists of:
+   - state: These are the attributes or variables that describe the object. ex: name,age
+   - behavior: these are the methods that tell what object can do. ex: bark(),sleep()
+   - identity : These are the variable names of the object, that are different from one another. ex: dog1,dog2
+  
+
+------------------------------------------------------------( Inheritence )-----------------------------------------------------------------
+
+# (Inheritence)
+- It allows a class which is a "child class" to inherit all the properties and methods from another class which is a "Parent class".
+- It supports Hierarchical classification and Code resuability.
+
+Types of inheritence:
+      - Single inhertence
+      - Multiple inheritence
+      - Multi-level inheritence
+      - Hierarchical inheritence
+      - Hybrid inheritence
+
+1. Single inhertence:
+
+ In single inheritence, A child class inherits from a single parent class.
+
+2. Multiple inheritence:
+
+In Multiple inheritence, A child class inherits from more than one parent class.
+
+3. Multi-level inheritence:
+
+In Multi-level inheritence, A child class inherits from a parent class which in-turn that parent class inherits from another class.
+
+4. Hierarchical inheritence:
+
+In Hierarchical inheritence, Multiple child classes are inherited from a single parent class.
+
+5. Hybrid inheritence:
+
+In Hybrid inheritence, There will a combination of two or more types of inheritence.
+
+------------------------------------------------------------( Polymorphism )-----------------------------------------------------------------
+
+# (Polymorphism)
+- It allows methods to have the same name but behave differently based on the objects context.
+- It can be achieved through "method overloading" and "method overriding".
+
+Types of Polymorphism:
+      - Compile Time ()
+      - Run time ()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
