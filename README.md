@@ -28,7 +28,7 @@
    - identity : These are the variable names of the object, that are different from one another. ex: dog1,dog2
   
 
-------------------------------------------------------------( Inheritence )-----------------------------------------------------------------
+------------------------------------------------------------( Inheritence )--------------------------------------------------------------
 
 # (Inheritence)
 - It allows a class which is a "child class" to inherit all the properties and methods from another class which is a "Parent class".
