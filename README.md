@@ -4,7 +4,7 @@
 - In simple words, it allows developers to structure their code in a efficient,scalable and maintainable way.
 
 # OOPS provides features (4-Pillars):
- - Inheritence
+ - Inheritance
  - Polymorphism
  - Encapsulation
  - Data Abstraction
@@ -29,36 +29,36 @@
 
 -------------------------------------------------( Inheritance )--------------------------------------------
 
-# Inheritence
+# Inheritance
 - It allows a class which is a "child class" to inherit all the properties and methods from another class which is a "Parent class".
 - It supports Hierarchical classification and Code resuability.
 
-Types of inheritence:
-      - Single inhertence
-      - Multiple inheritence
-      - Multi-level inheritence
-      - Hierarchical inheritence
-      - Hybrid inheritence
+Types of inheritance:
+      - Single inhertance
+      - Multiple inheritance
+      - Multi-level inheritance
+      - Hierarchical inheritance
+      - Hybrid inheritance
 
-1. Single inhertence:
+1. Single inhertance:
 
- In single inheritence, A child class inherits from a single parent class.
+ In single inheritance, A child class inherits from a single parent class.
 
-2. Multiple inheritence:
+2. Multiple inheritance:
 
-In Multiple inheritence, A child class inherits from more than one parent class.
+In Multiple inheritance, A child class inherits from more than one parent class.
 
-3. Multi-level inheritence:
+3. Multi-level inheritance:
 
-In Multi-level inheritence, A child class inherits from a parent class which in-turn that parent class inherits from another class.
+In Multi-level inheritance, A child class inherits from a parent class which in-turn that parent class inherits from another class.
 
-4. Hierarchical inheritence:
+4. Hierarchical inheritance:
 
-In Hierarchical inheritence, Multiple child classes are inherited from a single parent class.
+In Hierarchical inheritance, Multiple child classes are inherited from a single parent class.
 
-5. Hybrid inheritence:
+5. Hybrid inheritance:
 
-In Hybrid inheritence, There will a combination of two or more types of inheritence.
+In Hybrid inheritance, There will a combination of two or more types of inheritance.
 
 -------------------------------------------------( Polymorphism )--------------------------------------------
 
