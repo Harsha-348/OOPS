@@ -71,6 +71,27 @@ Types of Polymorphism:
       - Compile Time ()
       - Run time ()
 
+1.  Compile Time:
+
+- It is determined during the compilation of a proram.
+- It allows methods to have the same name but behave differently based on the input parameters that are given.
+- It is also reffered as method overloading.
+
+# Note: Technically, python doesn't support method over loading  but we can mimic it by using parameters or default arguements.
+#       It does method overloading because python does not allow methods to have the same name like C++ or Java.
+#       So, we use default arguements to mic and achieve over loading in python.
+
+2. Run Time:
+
+- It is determined during the run time of a program.
+- It allows a sub-class to provide specific implementation of a method that is determined in it's parent class.
+- It is also reffered as method overriding.
+
+-------------------------------------------------( Encapsulation )--------------------------------------------
+
+# (Encapsulation)
+- 
+
 
 
 
