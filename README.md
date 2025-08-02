@@ -1,4 +1,4 @@
-# OOPS
+# OOPS (Object Oriented Programming System) 
 
 - It is a programming pattern that is designed to model real-world entities through classes and objects.
 - In simple words, it allows developers to structure their code in a efficient,scalable and maintainable way.
@@ -8,7 +8,6 @@
  - Polymorphism
  - Encapsulation
  - Data Abstraction
-
 
 -------------------------------------------------( Class & Objects )--------------------------------------------
 
@@ -125,8 +124,31 @@ Note: If we want to access private and protected members of the class, Use gette
 
 1. Abstract class:
 
+It is a base class that defines the structure and is meant to be implemented.
+It consists of all the abstract methods with only the structure and no real implementation in it.
 
-  
+2. Abstract method:
+
+It is a method defined in the abstract class which has only structure and no real implementation in it.
+it is filled by the concrete class
+
+3. Concrete class:
+
+It is a class in which all the concrete methods are defined with the real code implementation in it from the above super class.
+
+4. Concrete method:
+
+it is a method defined in the concrete class with the real code implementation in it.
+
+
+
+---------------------------------------------------( Conclusion )--------------------------------------------
+
+So, This is it !!
+
+with all the conceptual explanation of OOPS and its four pillars in python.
+You will get the code from the above .py files.
+
 
 
 
