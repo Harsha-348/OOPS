@@ -1,4 +1,4 @@
-# OOPS (Object Oriented Programming System) 
+# OOPS (Object Oriented Programming System) in  Python
 
 - It is a programming pattern that is designed to model real-world entities through classes and objects.
 - In simple words, it allows developers to structure their code in a efficient,scalable and maintainable way.
