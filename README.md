@@ -77,9 +77,9 @@ Types of Polymorphism:
 - It allows methods to have the same name but behave differently based on the input parameters that are given.
 - It is also reffered as method overloading.
 
-# Note: Technically, python doesn't support method over loading  but we can mimic it by using parameters or default arguements.
-#       It does method overloading because python does not allow methods to have the same name like C++ or Java.
-#       So, we use default arguements to mic and achieve over loading in python.
+Note: Technically, python doesn't support method over loading  but we can mimic it by using parameters or default arguements.
+      It does method overloading because python does not allow methods to have the same name like C++ or Java.
+      So, we use default arguements to mic and achieve over loading in python.
 
 2. Run Time:
 
@@ -106,7 +106,7 @@ Types of Polymorphism:
 - It is identified with double underscore(__).
 - It can be accessed from inside the class.
 
-# If we want to access private and protected members of the class, Use getter and Setter methods:
+Note: If we want to access private and protected members of the class, Use getter and Setter methods:
 
 - getter():
 
