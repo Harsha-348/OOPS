@@ -90,7 +90,44 @@ Types of Polymorphism:
 -------------------------------------------------( Encapsulation )--------------------------------------------
 
 # (Encapsulation)
-- 
+- It is a process of grouping methods and variable that operate on a data into a single unit,typically a class
+- It restricts the direct access to the class components and protect the data.
+- It can be achieved through public,private and protected.
+
+1. Public member:
+- It can be accessed from both inside or outside the class.
+- They are the default members in python.
+
+2. Private member:
+- It is identified with a single underscore (_).
+- It  can be accessed within the class or by the sub-class.
+
+3. Protected member:
+- It is identified with double underscore(__).
+- It can be accessed from inside the class.
+
+# If we want to access private and protected members of the class, Use getter and Setter methods:
+
+- getter():
+
+  It is used to access the values Private and Protected members of the the class.
+
+- setter():
+
+  It is used to modify the values of private and protected members of the class.
+
+---------------------------------------------------( Data Abstraction )--------------------------------------------
+
+# (Data Abstraction)
+- It allows you to hide complex implementation details of the system and expose only the needed ones to the user.
+- It helps you to focus on "what to do" and not "how to do".
+- It can be achieved through abstract method, abstract class, concrete method and concrete class.
+
+1. Abstract class:
+
+
+  
+
 
 
 
